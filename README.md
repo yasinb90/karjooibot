@@ -1,2 +1,0 @@
-# karjooibot
-fg
